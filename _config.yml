@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mitch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Business Systems Analyst"
-  location         : "Massachusetts"
+  name             : "Mitch Fleischman"
+  avatar           : "https://media.licdn.com/dms/image/C5103AQGmtF26hyLYuQ/profile-displayphoto-shrink_200_200/0?e=1530748800&v=beta&t=E09R5eNvcTFb1_4Mkon2n3IPiFs5u2-eGEn-xgZTXGQ"
+  bio              : "Mitch Fleischman"
+  location         : "Boston, MA"
   email            : "mitchf@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
