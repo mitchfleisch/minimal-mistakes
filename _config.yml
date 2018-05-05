@@ -100,9 +100,9 @@ analytics:
 author:
   name             : "Mitch"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Business Systems Analyst"
   location         : "Massachusetts"
-  email            :
+  email            : "mitchf@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
